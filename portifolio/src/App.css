@@ -1,0 +1,206 @@
+.interface{
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+header{
+  padding: 40px 4%;
+  background-color: #FFC567;
+  outline: 2px solid rgb(0, 0, 0);
+}
+
+header > .interface{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.interface .logo {
+  text-align: center;
+}
+
+.interface .logo span{
+  font-size: 33px;
+  text-decoration: underline #058CD7;
+}
+
+.menu-desktop ul li i{
+  padding: 5px;
+}
+
+.menu-desktop ul li a {
+  display: inline-block; 
+  text-decoration: none;
+  color: inherit; 
+  transition: transform 0.2s ease;
+}
+
+.menu-desktop ul li a:hover {
+  transform: scale(1.05); /* Aplica o efeito de aumentar */
+}
+
+.menu-desktop{
+  margin-left: auto;
+}
+
+header nav ul a{
+  list-style-type: none;
+  text-align: right;
+  text-decoration: none;
+  color: #000;
+  font-weight: 500;
+}
+
+header nav ul{
+  font-weight: 500;
+}
+
+header nav li{
+  display: inline-block;
+  padding: 0 40px;
+}
+
+header .btn-contato button{
+  padding: 10px 40px;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: #552cb7;
+  color: #fff;
+  border: 0;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: .2s;
+  outline: 2px solid rgb(0, 0, 0);
+  box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+  margin-left: 20px;  
+}
+
+header .btn-contato button:hover{
+  transform: scale(1.05);
+}
+
+
+
+/* topo */
+
+section.topo-do-site{
+  padding: 80px 40px 4%;
+}
+
+section.topo-do-site.flex{
+  align-items: center;
+  justify-content: center;
+  gap: 92px;
+}
+
+.topo-do-site h1{
+  color: #000;
+  font-size: 42px;
+  line-height: 40px;
+  padding-top: 30px;
+}
+
+.topo-do-site .txt-topo-site h1 span{
+  color: #058CD7;
+}
+
+.topo-do-site h2{
+  padding-top: 30px;
+}
+
+.topo-do-site .txt-topo-site p{
+  color: #000000;
+  padding-right: 190px;
+  font-size: 20px;
+  margin: 40px 0px;
+}
+
+.topo-do-site .img-topo-site img{
+  position: relative;
+  height: 400px;
+  width: 400px;
+  border-radius: 20px;
+  background-color: #FD5A46;
+  outline: 2px solid rgb(0, 0, 0);
+  box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+}
+
+ .txt-topo-site .btn-contato button{
+  padding: 10px 40px;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: #552cb7;
+  color: #fff;
+  border: 0;
+  border-radius: 30px;
+  transition: .2s;
+  cursor: pointer;
+  outline: 2px solid rgb(0, 0, 0);
+  box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+}
+
+.txt-topo-site .btn-contato button:hover{
+  transform: scale(1.05);
+}
+
+section.especialidades{
+  padding: 40px 4%;
+  text-align: center;
+  background-color: #FFC567;
+  outline: 2px solid rgb(0, 0, 0);
+}
+
+section.especialidades .flex{
+  gap: 60px;
+}
+
+.especialidades .especialidades-box{
+  color: rgb(0, 0, 0);
+  padding: 40px;
+  border-radius: 20px;
+  border: 2px solid antiquewhite;
+  background-color: antiquewhite;
+  margin-top: 45px;
+  transition: .2s;
+  cursor: pointer;
+  outline: 2px solid rgb(0, 0, 0);
+  box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+}
+
+.especialidades .especialidades-box:hover{
+  transform: scale(1.05);
+  box-shadow: rgb(0, 0, 0) 2px 2px 0px 0px;
+}
+
+.especialidades .especialidades-box p{
+  padding: 10px 0px;
+}
+
+.especialidades .especialidades-box h2{
+  font-size: 30px;
+  color: rgb(0, 0, 0); 
+}
+
+.especialidades .especialidades-box ul{
+  text-align: left;
+  padding: 20px 0px 0px 20px;
+}
+
+.especialidades .especialidades-box .mobileapp{
+  width: 100%;
+  border-radius: 20px;
+  outline: 2px solid rgb(0, 0, 0);  
+}
+
+.especialidades .especialidades-box .webapp{
+  width: 100%;
+  border-radius: 20px;
+  margin-bottom: 30px;
+  outline: 2px solid rgb(0, 0, 0);
+  text-decoration: none;
+}
+.especialidades .interface a{
+  text-decoration: none;
+  display: block;
+  color: inherit;
+}
