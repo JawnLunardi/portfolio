@@ -1,8 +1,5 @@
 import { useState } from 'react'
 import './App.css'
-import Lunardi from "./img"
-
-
 
 function App() {
   const [count, setCount] = useState(0)
@@ -43,7 +40,7 @@ experiência por meio de estudos com HTML, CSS, JavaScript, React, Node.js e Kot
                 </div>
               </div>
               <div className='img-topo-site'>
-                <img src={Lunardi} alt="" />
+                <img src="no-bg.png" alt="" />
               </div>
             </div>
           </div>
@@ -59,7 +56,7 @@ experiência por meio de estudos com HTML, CSS, JavaScript, React, Node.js e Kot
           <div className="flex">
             
             <div className="especialidades-box"><a href="https://www.linkedin.com/posts/jv-lunardi_kotlin-android-mobile-activity-7214275041142706177-isuv" target='blank'>
-            <img className='mobileapp' src="public/gas_or_eth.png" alt="" />
+            <img className='mobileapp' src="gas_or_eth.png" alt="" />
             <h2 className='titulo'>Calculadora de Combustível</h2>
             <p>Aplicativo Android que compara preço de etanol e gasolina para analisar qual vale mais a pena</p>
             <br />
@@ -73,7 +70,7 @@ experiência por meio de estudos com HTML, CSS, JavaScript, React, Node.js e Kot
             
             
             <div className="especialidades-box"><a href="https://www.linkedin.com/posts/jv-lunardi_frontend-reactjs-desenvolvimentoweb-activity-7242297860371697665-H7vb" target='blank'>
-            <img className='webapp' src="public/weather.png" alt="" />
+            <img className='webapp' src="weather.png" alt="" />
             <h2 className='titulo'>Previsão do tempo</h2>
             <p>Aplicação web de previsão do tempo consumindo uma API externa da OpenWeather </p>
             <br />
@@ -89,7 +86,7 @@ experiência por meio de estudos com HTML, CSS, JavaScript, React, Node.js e Kot
             
             
             <div className="especialidades-box"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7246642680854679552/" target='blank'>
-            <img className='webapp' src="public/soccerfans.png" alt="" />
+            <img className='webapp' src="soccerfans.png" alt="" />
             <h2 className='titulo'>Cadastramento de usuários</h2>
             <p>Projeto de cadastramento de torcedores utilizando banco de dados.</p>             <br />
             <h3>Ferramentas utilizadas</h3>
