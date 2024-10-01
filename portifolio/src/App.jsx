@@ -1,5 +1,8 @@
 import { useState } from 'react'
 import './App.css'
+import Lunardi from "./img"
+
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -40,7 +43,7 @@ experiência por meio de estudos com HTML, CSS, JavaScript, React, Node.js e Kot
                 </div>
               </div>
               <div className='img-topo-site'>
-                <img src="public/no-bg.png" alt="" />
+                <img src={Lunardi} alt="" />
               </div>
             </div>
           </div>
