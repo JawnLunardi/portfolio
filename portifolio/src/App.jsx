@@ -36,7 +36,7 @@ function App() {
 Fluminense (UFF). Estou focado em desenvolvimento web e também mobile, e possuo 
 experiência por meio de estudos com HTML, CSS, JavaScript, React, Node.js e Kotlin.</p>
                 <div className="btn-contato">
-                  <a href="https://wa.me/5524998172656" target='blank'><button>entre em contato</button></a>
+                  <a href="" ><button>entre em contato</button></a>
                 </div>
               </div>
               <div className='img-topo-site'>
