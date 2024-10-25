@@ -1,7 +1,14 @@
 # Meu portfólio!
 ## Conheça meu portfólio!
 
-Desenvolvido com HTML, CSS e React JS!
+Esse portfólio foi criado para apresentar de forma objetiva e prática o meu trabalho como desenvolvedor, centralizando projetos e informações de contato para ampliar minhas oportunidades de networking e possíveis contratações e colaborações.
+
+Tecnologias utilizadas:
+ • HTML
+ • CSS
+ • JavaScript
+ • React
+ • Node.js
 
 https://lunardi.vercel.app
 
