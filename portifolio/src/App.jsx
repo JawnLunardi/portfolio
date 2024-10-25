@@ -15,7 +15,7 @@ function App() {
         <ul>
           <li><i class="bi bi-linkedin"></i><a href ="https://www.linkedin.com/in/jv-lunardi/" target='blank'>LinkedIn</a></li>
           <li><i class="bi bi-github"></i><a href ="https://github.com/JawnLunardi" target='blank'>Github</a></li>
-          <li>joaovitorlm@gmail.com</li>
+          <li><a href ="mailto:joaovitorlm@gmail.com" target='blank'>joaovitorlm@gmail.com</a></li>
         </ul>
       </nav>
         <div className="btn-contato">
