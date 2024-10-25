@@ -84,6 +84,7 @@ header .btn-contato button:hover{
 header .mobile-btn button{
   padding: 10px 40px;
   font-size: 18px;
+  display: none;
   font-weight: 600;
   background-color: #552cb7;
   color: #fff;
@@ -227,6 +228,10 @@ section.especialidades .flex{
 @media screen and (max-width: 1020px){
   .flex{
     flex-direction: column-reverse;
+  }
+
+  header .mobile-btn button{
+    display: inline-block;
   }
   
   .menu-desktop,
