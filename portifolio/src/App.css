@@ -79,7 +79,26 @@ header .btn-contato button:hover{
   transform: scale(1.05);
 }
 
+/* mobile */
 
+header .mobile-btn button{
+  padding: 10px 40px;
+  font-size: 18px;
+  font-weight: 600;
+  background-color: #552cb7;
+  color: #fff;
+  border: 0;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: .2s;
+  outline: 2px solid rgb(0, 0, 0);
+  box-shadow: rgb(0, 0, 0) 5px 5px 0px 0px;
+  margin-left: 20px;  
+}
+
+header .mobile-btn button:hover{
+  transform: scale(1.05);
+}
 
 /* topo */
 
@@ -204,3 +223,38 @@ section.especialidades .flex{
   display: block;
   color: inherit;
 }
+
+@media screen and (max-width: 1020px){
+  .flex{
+    flex-direction: column-reverse;
+  }
+  
+  .menu-desktop,
+  .btn-contato{
+    display: none;
+  }
+
+  section.topo-do-site{
+    padding: 40px 40px 0%;
+  }
+
+  .topo-do-site h1{
+    font-size: 30px;
+  }
+
+  .topo-do-site .img-topo-site img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;  
+  }
+
+  .topo-do-site .txt-topo-site p{
+    padding-right: 10px;
+    margin: 40px 0px;
+    text-align: justify;
+  }
+
+}
+

@@ -19,7 +19,12 @@ function App() {
         </ul>
       </nav>
         <div className="btn-contato">
-          <a href="https://wa.me/5524998172656" target='blank'>
+          <a href="https://wa.me/5524998172656" target='_blank'>
+            <button>Contato</button>
+          </a>
+        </div>
+        <div className="mobile-btn">
+          <a href="https://lt-lunardi.vercel.app" target='_blank'>
             <button>Contato</button>
           </a>
         </div>
