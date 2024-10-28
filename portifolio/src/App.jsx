@@ -39,7 +39,7 @@ function App() {
                 <h2>Desenvolvedor Jr</h2>
                 <p>Sou João Vitor, estudante de Sistemas de Computação na Universidade Federal 
 Fluminense (UFF). Estou focado em desenvolvimento web e também mobile, e possuo 
-experiência por meio de estudos com HTML, CSS, JavaScript, React, Node.js e Kotlin.</p>
+experiência por meio de estudos com HTML, CSS, JavaScript, Python, React.js, Node.js, MySQL e Kotlin.</p>
                 <div className="btn-contato">
                   <a href="https://lunardi.vercel.app/joaolunardi_cv.pdf" target='blank' ><button>Curriculum Vitae</button></a>
                 </div>
