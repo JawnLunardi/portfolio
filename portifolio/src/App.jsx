@@ -100,6 +100,7 @@ Fluminense (UFF) com mais de um ano de estudos e atuação como freelancer. <br/
           <li>Ruby on Rails</li>
           <li>ERB</li>
           <li>SQLite</li>
+          <li>Git Bash</li>
         </ul></a>
             </div>
 
