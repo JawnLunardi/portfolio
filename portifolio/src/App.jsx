@@ -89,18 +89,17 @@ Fluminense (UFF) com mais de um ano de estudos e atuação como freelancer. <br/
             </a></div>
             
             
-            <div className="especialidades-box"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7246642680854679552/" target='blank'>
-            <img className='webapp' src="soccerfans.png" alt="" />
-            <h2 className='titulo'>Cadastramento de usuários</h2>
-            <p>Projeto de cadastramento de torcedores utilizando banco de dados.</p>             <br />
+            <div className="especialidades-box"><a href="https://www.linkedin.com/feed/update/urn:li:activity:7277429790792388608/" target='blank'>
+            <img className='webapp' src="management.png" alt="" />
+            <h2 className='titulo'>Gerenciamento de Estoque</h2>
+            <p>Projeto de gerenciamento de estoque utilizando banco de dados e desenvolvido em Ruby on Rails.</p>             <br />
             <h3>Ferramentas utilizadas</h3>
             <ul>
           <li>HTML</li>
           <li>CSS</li>
-          <li>JavaScript</li>
-          <li>React</li>
-          <li>Node.js</li>
-          <li>MySQL</li>
+          <li>Ruby on Rails</li>
+          <li>ERB</li>
+          <li>SQLite</li>
         </ul></a>
             </div>
 
