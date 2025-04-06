@@ -38,7 +38,7 @@ function App() {
                 <h1>Olá, eu sou João Vitor Lunardi<span>.</span></h1>
                 <h2>Desenvolvedor Jr</h2>
                 <p>Estudante de Sistemas de Computação na Universidade Federal 
-Fluminense (UFF) com mais de um ano de estudos e atuação como freelancer. <br/> Minhas especialidades incluem HTML5, CSS3, JavaScript, React.js, Node.js, Ruby on Rails e Kotlin, além de MySQL e Git, entregando soluções modernas e funcionais.</p>
+Fluminense (UFF) com mais de um ano de estudos e atuação como freelancer. <br/> Minhas especialidades incluem HTML5, CSS3, Java, Python, JavaScript, React.js, Node.js, Ruby on Rails e Kotlin, além de MySQL e Git, entregando soluções modernas e funcionais.</p>
                 <div className="btn-contato">
                   <a href="https://lunardi.vercel.app/joaolunardi_cv.pdf" target='blank' ><button>Curriculum Vitae</button></a>
                 </div>
